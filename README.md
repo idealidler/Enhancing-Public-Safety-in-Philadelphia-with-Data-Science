@@ -1,4 +1,4 @@
-Enhancing Public Safety in Philadelphia with Data Science
+# Enhancing Public Safety in Philadelphia with Data Science
 
 Introduction
 
