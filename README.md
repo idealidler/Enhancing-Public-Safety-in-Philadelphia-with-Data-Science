@@ -9,21 +9,29 @@ We merged all the cleaned datasets and performed multiclass classification using
 ## Libraries used
 
 Scikit-learn
+
 Folium
+
 Pandas
+
 NumPy
+
 Seaborn
+
 Matplotlib
 
 ## Data Sources
 
 US Census Bureau: https://www.census.gov/quickfacts/philadelphiacountypennsylvania
+
 OpenDataPhilly: https://www.opendataphilly.org/
 
 ## Running the code
 
 Run Poverty and Population notebooks first to acquire and clean population and poverty data.
+
 Next, run the Crime Cleaning notebook to clean the crime data.
+
 Finally, run the Modeling notebook to merge all the datasets and build a crime classifier.
 
 ## Conclusion
