@@ -21,9 +21,13 @@ In the machine learning modeling, we merged all the cleaned datasets and perform
 The following libraries were used in this project:
 
 **Scikit-learn** for machine learning modeling
+
 **Folium** for visualization on maps
+
 **Pandas** for data manipulation
+
 **NumPy** for numerical computing
+
 **Seaborn** and Matplotlib for data visualization
 
 ## Data Sources
