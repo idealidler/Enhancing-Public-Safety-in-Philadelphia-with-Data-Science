@@ -28,7 +28,7 @@ The following libraries were used in this project:
 
 **NumPy** for numerical computing
 
-**Seaborn** and Matplotlib for data visualization
+**Seaborn and Matplotlib** for data visualization
 
 ## Data Sources
 
